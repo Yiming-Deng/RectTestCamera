@@ -10,7 +10,7 @@ Color parameters of test paper are identified by mobile phone, and relevant para
 * Camera parameter control: ISO, exposure and other parameters can be set.
 
 ### Software characteristics
-This system runs based on Android environment. It can collect the camera status corresponding to the moment when the photo is taken and encapsulate the picture into txt and store it in the DCIM folder of the system.
+This system runs based on Android environment. It can collect the camera status corresponding to the moment when the photo is taken and encapsulate the picture into txt and store it in the DCIM folder of the system. 
 
 ## Interface and operation description
 ### Software operation interface description
