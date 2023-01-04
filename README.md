@@ -16,7 +16,7 @@ This system runs based on Android environment. It can collect the camera status 
 ### Software operation interface description
 After opening the software, the login interface is directly displayed, as shown in the figure.
 
-![image](/image/login.jpg)  
+![image](/image/login.jpg)
 ![image](/image/operation.png)
 
 ① Exit the software button. Click to return to the main interface.  
